@@ -1,0 +1,13 @@
+.About {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+
+    &__content{
+        margin-top: 20px;
+        width: 90%;
+    }
+    h2,h4,li {
+        margin-bottom: 20px;
+    }
+}

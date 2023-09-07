@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+=======
+8/10/2023 	 Unauthorized 
+----------------------------------
+>>>>>>> 9d2b73d (minor fixes)
+8/12/2023 	 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM vacations WHERE vacationId = ?' at line 1 
+----------------------------------
+8/12/2023 	 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 
+----------------------------------
+8/12/2023 	 Unauthorized 
+----------------------------------
+8/13/2023 	 Unauthorized 
+----------------------------------
+8/13/2023 	 ENOENT: no such file or directory, stat '/Users/gabrielyakubov/Desktop/project test/gabriel_yakubov_vacations_project/backend/src/1-assets/images/adc5f2b3-97f1-48bd-a0cf-bfddd00902f1.jpeg' 
+----------------------------------

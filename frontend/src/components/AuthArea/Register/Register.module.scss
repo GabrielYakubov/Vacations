@@ -1,0 +1,57 @@
+.Register {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    &__card {
+        display: inline-block;
+        border: 1px solid lightgrey;
+        border-radius: 5px;
+        text-align: center;
+        padding: 50px;
+
+        & h2 {
+            color: #0d6efd;
+            padding: 10px;
+            margin-bottom: 50px;
+            text-decoration: underline;
+        }
+
+        & p {
+            margin-top: 20px;
+        }
+        span {
+            color: red;
+            font-weight: bold;
+        }
+    }
+
+    &__inputs  {
+
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    &__ThankYouMsg {
+        height: 200px;
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: white;
+        border: 1px solid lightgrey;
+        border-radius: 3px;
+    
+        & h2 {
+          margin-bottom: 10px;
+        }
+    
+      }
+}

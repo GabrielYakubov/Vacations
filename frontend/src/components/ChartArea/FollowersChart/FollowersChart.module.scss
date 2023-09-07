@@ -1,0 +1,11 @@
+.FollowersChart {
+    overflow: hidden;
+    &__button{
+        
+        margin: 5px 0 5px 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

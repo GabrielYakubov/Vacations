@@ -1,0 +1,13 @@
+.Alert {
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+    z-index: 2000;
+
+    & button {
+        margin-top: 15px;
+    }
+}
