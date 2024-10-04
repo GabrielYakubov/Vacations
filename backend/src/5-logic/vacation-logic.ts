@@ -7,7 +7,6 @@ import fs from 'fs';
 
 export const getAllVacations = async (offset: number): Promise<Vacation[]> => {
 
-  //pull all vacations and combines (aggregates) followers userIds that are equal to vacation userIds them into user
   const sql = `
     SELECT V.*,
       COUNT(F.userID) AS userCount,
