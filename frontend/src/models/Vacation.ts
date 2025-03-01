@@ -8,7 +8,7 @@ interface Vacation {
   image: FileList;
   imageName: string;
   userCount: number;
-  userIds:string;
+  userIds: string;
 }
 
 export default Vacation;
