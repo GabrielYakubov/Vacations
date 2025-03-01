@@ -1,0 +1,17 @@
+.AuthMenu {
+    span {
+        font-weight: bold;
+    }
+
+    p {
+        font-weight: bold;
+        margin: 0;
+        padding: 0;
+    }
+
+    & > a {
+        text-decoration: none;
+        margin-right: 10px;
+    }
+    
+}

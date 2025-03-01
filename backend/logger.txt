@@ -1,0 +1,135 @@
+<<<<<<< HEAD
+=======
+8/10/2023 	 Unauthorized 
+----------------------------------
+>>>>>>> 9d2b73d (minor fixes)
+8/12/2023 	 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM vacations WHERE vacationId = ?' at line 1 
+----------------------------------
+8/12/2023 	 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 
+----------------------------------
+8/12/2023 	 Unauthorized 
+----------------------------------
+8/13/2023 	 Unauthorized 
+----------------------------------
+8/13/2023 	 ENOENT: no such file or directory, stat '/Users/gabrielyakubov/Desktop/project test/gabriel_yakubov_vacations_project/backend/src/1-assets/images/adc5f2b3-97f1-48bd-a0cf-bfddd00902f1.jpeg' 
+----------------------------------
+2/27/2025 	 Something went wrong 
+----------------------------------
+2/27/2025 	 Client does not support authentication protocol requested by server; consider upgrading MySQL client 
+----------------------------------
+2/28/2025 	 Unauthorized 
+----------------------------------
+2/28/2025 	 Client does not support authentication protocol requested by server; consider upgrading MySQL client 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 Invalid credentials: missing data 
+----------------------------------
+2/28/2025 	 Invalid credentials: missing data 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 Route /api/auth/login not exists 
+----------------------------------
+2/28/2025 	 Route /favicon.ico not exists 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 data and hash arguments required 
+----------------------------------
+2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\GettyRF_985553596.jpg' 
+----------------------------------
+2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\5d7f0e46-0c58-48e0-aa1e-969b39890826.jpg' 
+----------------------------------
+2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\f2ab6bc5-5f25-481e-a3b2-f22272f773a9.jpg' 
+----------------------------------
+2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\aea2e038-52cf-4c76-b62f-ceaed7484311.jpg' 
+----------------------------------
+2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\6f4fc5f4-785b-467d-9195-f1f1e0be9c9b.jpg' 
+----------------------------------
+2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\f145916a-8f4f-417f-b233-00e20e4c283d.webp' 
+----------------------------------
+2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\c19eeb71-320a-4d00-afa9-f6ed9fc403fe.jpg' 
+----------------------------------
+2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\7fd80258-6e56-4a43-ad26-ce258b95e0c5.webp' 
+----------------------------------
+2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\21964598-0fa8-45fb-a65e-763fefaa3c0e.webp' 
+----------------------------------
+2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\d09d71c0-099a-4c7f-96e8-8aa65486cca3.jpeg' 
+----------------------------------

@@ -1,0 +1,20 @@
+.LayoutArea {
+    display: grid;
+    height: 100vh;
+    grid-template-rows: 6% 90% 4%;
+    grid-template-columns: repeat(16, 1fr);
+    background: #1c92d2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #f2fcfe, #1c92d2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    & header,
+    & footer {
+        grid-column: span 16;
+    }
+
+    & main {
+        grid-column: 2 / 16;
+    }
+
+
+}
