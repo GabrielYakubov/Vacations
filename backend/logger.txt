@@ -128,3 +128,5 @@
 ----------------------------------
 2/28/2025 	 ENOENT: no such file or directory, stat 'C:\Users\Insom\Desktop\Vacations\Vacations\backend\src\1-assets\images\d09d71c0-099a-4c7f-96e8-8aa65486cca3.jpeg' 
 ----------------------------------
+3/1/2025 	 Unauthorized 
+----------------------------------

@@ -23,7 +23,7 @@ axiosCustomInstance.interceptors.response.use(
   (err) => {
     // Error handling logic
     if (err.response.status === 401) {
-      console.log(err.response.message);
+      console.log(err.response);
     }
 
     return Promise.reject(err);
